@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Viewable animations illustrating lecture notes.  QuickTime is required
+  for viewing.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Animations
