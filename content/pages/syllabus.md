@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course abstract and information on
+  meeting times and lecture topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
