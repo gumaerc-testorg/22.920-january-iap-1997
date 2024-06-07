@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lab and Problem Set #3: Magnetization Gradients, k-space and Molecular
   Diffusion [Gradients, Gradient Echo and measurements of diffusion]'
 file: /courses/22-920-a-hands-on-introduction-to-nuclear-magnetic-resonance-january-iap-1997/622bf26dfb7ba70f6478aac3d7a02a39_exp2.pdf
+file_size: 98881
 file_type: application/pdf
 learning_resource_types:
 - Labs
