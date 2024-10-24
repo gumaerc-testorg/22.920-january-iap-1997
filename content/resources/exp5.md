@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lab and Problem Set #6: More Imaging and Velocity Encoding [2-D Spin
   Echo Imaging]'
-file: /courses/22-920-a-hands-on-introduction-to-nuclear-magnetic-resonance-january-iap-1997/266d312a19fee3af5449c28ac56f782f_exp5.pdf
+file: /ol-ocw-studio-app/courses/22-920-a-hands-on-introduction-to-nuclear-magnetic-resonance-january-iap-1997/266d312a19fee3af5449c28ac56f782f_exp5.pdf
 file_size: 81440
 file_type: application/pdf
 learning_resource_types:
