@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lab and Problem Set #5: 2-D Imaging and Slice Selection [2-D Gradient
   Echo Imaging]'
-file: /ol-ocw-studio-app/courses/22-920-a-hands-on-introduction-to-nuclear-magnetic-resonance-january-iap-1997/87b59be5c258d7fc0282ef8e67b46b5f_exp4.pdf
+file: /courses/22-920-a-hands-on-introduction-to-nuclear-magnetic-resonance-january-iap-1997/87b59be5c258d7fc0282ef8e67b46b5f_exp4.pdf
 file_size: 86544
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about the gradient and spin echoes.
-file: /ol-ocw-studio-app/courses/22-920-a-hands-on-introduction-to-nuclear-magnetic-resonance-january-iap-1997/21fe102c19ad2bf3f1835c55cb33a426_lecture_4.pdf
+file: /courses/22-920-a-hands-on-introduction-to-nuclear-magnetic-resonance-january-iap-1997/21fe102c19ad2bf3f1835c55cb33a426_lecture_4.pdf
 file_size: 309109
 file_type: application/pdf
 learning_resource_types:

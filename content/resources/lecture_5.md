@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about the 2-D imaging and slice selection.
-file: /ol-ocw-studio-app/courses/22-920-a-hands-on-introduction-to-nuclear-magnetic-resonance-january-iap-1997/71f5007200c2751003d36005c43e3df9_lecture_5.pdf
+file: /courses/22-920-a-hands-on-introduction-to-nuclear-magnetic-resonance-january-iap-1997/71f5007200c2751003d36005c43e3df9_lecture_5.pdf
 file_size: 343355
 file_type: application/pdf
 learning_resource_types:
