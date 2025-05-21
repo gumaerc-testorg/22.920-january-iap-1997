@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about nuclear spin and magnetic resonance.
-file: /ol-ocw-studio-app/courses/22-920-a-hands-on-introduction-to-nuclear-magnetic-resonance-january-iap-1997/38a44e04e8f48b1a8969b3a2e5fb6363_lecture_1.pdf
+file: /courses/22-920-a-hands-on-introduction-to-nuclear-magnetic-resonance-january-iap-1997/38a44e04e8f48b1a8969b3a2e5fb6363_lecture_1.pdf
 file_size: 312578
 file_type: application/pdf
 learning_resource_types:
