@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about the rotating frame, RF pulses
   and the bloch equations.
-file: /courses/22-920-a-hands-on-introduction-to-nuclear-magnetic-resonance-january-iap-1997/2c3c010568e1561a18c5b472db1d84ec_lecture_2.pdf
+file: /ol-ocw-studio-app/courses/22-920-a-hands-on-introduction-to-nuclear-magnetic-resonance-january-iap-1997/2c3c010568e1561a18c5b472db1d84ec_lecture_2.pdf
 file_size: 448327
 file_type: application/pdf
 learning_resource_types:
