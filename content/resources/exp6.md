@@ -2,11 +2,11 @@
 content_type: resource
 description: 'Lab and Problem Set #7: Spectroscopy and J Modulation [Measurements
   of Flow via NMR]'
-file: /courses/22-920-a-hands-on-introduction-to-nuclear-magnetic-resonance-january-iap-1997/a9db9eaafe43748919d8010867426447_exp6.pdf
+file: /ol-ocw-studio-app/courses/22-920-a-hands-on-introduction-to-nuclear-magnetic-resonance-january-iap-1997/a9db9eaafe43748919d8010867426447_exp6.pdf
 file_size: 82113
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

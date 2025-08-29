@@ -2,11 +2,11 @@
 content_type: resource
 description: 'Lab and Problem Set #1: Nuclear Spin and Magnetic Resonance [FIDs, FTs
   and Shimming]'
-file: /courses/22-920-a-hands-on-introduction-to-nuclear-magnetic-resonance-january-iap-1997/d3057672ffb64a64d4b0f234a7bdfe20_exp0.pdf
+file: /ol-ocw-studio-app/courses/22-920-a-hands-on-introduction-to-nuclear-magnetic-resonance-january-iap-1997/d3057672ffb64a64d4b0f234a7bdfe20_exp0.pdf
 file_size: 92271
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
